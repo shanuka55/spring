@@ -1,0 +1,74 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jdbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jcl-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-webmvc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-test-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-aspects-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jms-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-r2dbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-oxm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jdbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-web-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-webflux-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-expression-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-beans-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-r2dbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-messaging-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-tx-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-web-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-messaging-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-instrument-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-oxm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-instrument-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-webflux-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-tx-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-support-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-core-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-beans-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-indexer-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-orm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-support-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-orm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-core-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-oxm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-tx-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-messaging-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jcl-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jms-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jdbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-aspects-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jcl-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-webmvc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-webflux-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-indexer-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-jms-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-expression-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-core-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-aop-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-support-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-aspects-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-indexer-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-websocket-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-webmvc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-web-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-instrument-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-orm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-context-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-r2dbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-expression-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-test-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-aop-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-aop-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-websocket-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-test-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-websocket-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hellow_Spring/libs/spring-beans-5.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
